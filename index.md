@@ -9,4 +9,17 @@ The application provides Hawaiian electric customers ways to save their electric
 
 
 ## Team Members 
-
+* Caliana Fortin 
+  * contact: fortinc@hawaii.edu
+* Jerome Gallego
+  * contact: gallego6@hawaii.edu
+* Kyra Ikeda 
+  * kyrai@hawaii.edu
+* Matthew Kirts 
+  * mkirts@hawaii.edu
+* Shinya Saito 
+  * saitoshi@hawaii.edu
+* Trey Sumida
+  * tasumida@hawaii.edu
+* Alex W 
+  * awong20@hawaii.edu
