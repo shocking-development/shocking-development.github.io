@@ -9,6 +9,9 @@ The application provides Hawaiian electric customers ways to save their electric
 * Landing Page <br/>
 ![](doc/landing.png)
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page. 
+* Log In Page <br/>
+![](doc/login.png)
+A page where returning users can log in to their registered account.
 
 ## Milestones 
 
