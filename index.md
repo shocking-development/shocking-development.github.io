@@ -5,6 +5,10 @@ The application provides Hawaiian electric customers ways to save their electric
 
 ## Overview 
 
+### User's Guide 
+* Landing Page <br/>
+![](doc/landing.png)
+
 ## Milestones 
 
 
