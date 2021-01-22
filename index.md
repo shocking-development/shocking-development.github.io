@@ -17,8 +17,14 @@ A page where returning users can log in to their registered account.
 * Register Page <br/>
 ![](doc/register.png)
 A page where users who already have a registered account can log back in.
-
-## Milestones
+<br/>
+* Profile Page <br/>
+![](doc/profile.jpeg)
+A page that displays the user's input profile such as their username, location of where they live, and their major mode of transportaiton.
+<br/>
+* Edit Profile Page <br/>
+![](doc/editprofile.png)
+A page that allows users to change any information that they would like to do. For instance, an user can change the area they live or their main mode of transportation. 
 
 
 ## Team Members
