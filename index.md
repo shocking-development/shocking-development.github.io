@@ -9,8 +9,10 @@ The application provides Hawaiian electric customers ways to save their electric
 
 ### Milestone 1
 
-Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/1">link</a> to the page for Milestone 1 (M1). <br/>
 ![](doc/milestone1.png)
+
+Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/1">link</a> to the page for Milestone 1 (M1). <br/>
+
 
 Most of milestone 1 was centered around on developing the mockup pages and the basic data for the applications.
 ### User's Guide
