@@ -29,7 +29,7 @@ A page where returning users can log in to their registered account.
 <br/>
 * Register Page <br/>
 ![](doc/register.png)
-A page where users who already have a registered account can log back in.
+A page where users can register for an account for the application. 
 <br/>
 * Profile Page <br/>
 ![](doc/profile.jpeg)
