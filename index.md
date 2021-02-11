@@ -21,7 +21,7 @@ Most of milestone 1 was centered around on developing the mockup pages and the b
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page.
 <br/>
 * Landing Page Alternate Version <br/>
-![](doc/landinglogged.jpg)
+![](doc/landinglogged.png)
 Homepage for users who are already logged into their account. Will dispaly a brief preview on their progress on how much greenhouse gases they have saved.
 * Log In Page <br/>
 ![](doc/login.png)
