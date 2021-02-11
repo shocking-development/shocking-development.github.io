@@ -64,7 +64,7 @@ Admins of the application can organize the user data by deleting users who have 
   * portfolio: https://mkirts.github.io/
 * Shinya Saito
   * contact: saitoshi@hawaii.edu
-  * portfolio: https://saitoshi.github.io/bio/
+  * portfolio: https://saitoshin.web.fc2.com/index.html
 * Trey Sumida
   * contact: tasumida@hawaii.edu
   * portfolio: https://treysumida.com/
