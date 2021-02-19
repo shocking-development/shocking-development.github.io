@@ -37,10 +37,17 @@ A page that displays the user's input profile such as their username, location o
 <br/>
 * Edit Profile Page <br/>
 ![](doc/editprofile.png)
-A page that allows users to change any information that they would like to do. For instance, an user can change the area they live or their main mode of transportation.
+A page that allows users to change any information that they would like to do. For instance, an user can change the area they live or their main mode of transportation. 
+<br/>
 * Data Page <br/>
 ![](doc/data.png)
 A page that provides the user a deeper analysis on how much greenhouse gases they have saved and would provide how much more they could save if they used alternative transportation options.
+* Add Data Page <br/>
+![](doc/addData.png)
+A page that adds data to update the current user's data. 
+* GHG Calculator 
+![](doc/calc.png)
+A page where users can calculate the amount of Greeh House Gases that they can either save or produce. 
 * Admin Page <br/>
 ![](doc/admin.png)
 Admins of the application can organize the user data by deleting users who have been inactive for a long period of time.
