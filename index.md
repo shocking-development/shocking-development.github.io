@@ -32,7 +32,7 @@ A page where returning users can log in to their registered account.
 A page where users can register for an account for the application. 
 <br/>
 * Profile Page <br/>
-![](doc/profile.jpeg)
+![](doc/profile.png)
 A page that displays the user's input profile such as their username, location of where they live, and their major mode of transportaiton.
 <br/>
 * Edit Profile Page <br/>
