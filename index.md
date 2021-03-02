@@ -13,12 +13,12 @@ The application provides Hawaiian electric customers ways to save their electric
 
 Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/1">link</a> to the page for Milestone 1 (M1). <br/>
 
-### Milestone 2 
+### Milestone 2
 
 Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/2">link</a> to the page for Milestone 2 (M2). <br/>
- 
+
  ### Milestone 3
- 
+
  Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/3">link</a> to the page for the issues covered in Milestone 3 (M3). <br/>
 
 Most of milestone 1 was centered around on developing the mockup pages and the basic data for the applications.
@@ -36,25 +36,25 @@ A page where returning users can log in to their registered account.
 <br/>
 * Register Page <br/>
 ![](doc/register.png)
-A page where users can register for an account for the application. 
+A page where users can register for an account for the application.
 <br/>
 * Profile Page <br/>
 ![](doc/profile.png)
 A page that displays the user's input profile such as their username, location of where they live, and their major mode of transportaiton.
 <br/>
 * Edit Profile Page <br/>
-![](doc/editprofile.png)
-A page that allows users to change any information that they would like to do. For instance, an user can change the area they live or their main mode of transportation. 
+![](doc/editProfile.png)
+A page that allows users to change any information that they would like to do. For instance, an user can change the area they live or their main mode of transportation.
 <br/>
 * Data Page <br/>
 ![](doc/data.png)
 A page that provides the user a deeper analysis on how much greenhouse gases they have saved and would provide how much more they could save if they used alternative transportation options.
 * Add Data Page <br/>
 ![](doc/addData.png)
-A page that adds data to update the current user's data. 
-* GHG Calculator 
+A page that adds data to update the current user's data.
+* GHG Calculator
 ![](doc/calc.png)
-A page where users can calculate the amount of Greeh House Gases that they can either save or produce. 
+A page where users can calculate the amount of Greeh House Gases that they can either save or produce.
 * Admin Page <br/>
 ![](doc/admin.png)
 Admins of the application can organize the user data by deleting users who have been inactive for a long period of time.
