@@ -11,11 +11,12 @@
 
 
 # OVERVIEW
+***
 The application provides Hawaiian electric customers ways to save their electric fees by cutting down their green house gas usages.
 
 
 # MILESTONES
-
+***
 ### Milestone 1
 
 ![](doc/milestone1.png)
@@ -34,6 +35,7 @@ Most of milestone 1 was centered around on developing the mockup pages and the b
 
 
 # USER'S GUIDE
+***
 * Landing Page <br/>
 ![](doc/landing.png)
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page.
@@ -91,6 +93,7 @@ Admins of the application can organize the user data by deleting users who have 
 
 
 ## TEAM MEMBERS
+***
 * Caliana Fortin
   * contact: fortinc@hawaii.edu
   * portfolio: https://calianafortin.github.io/
