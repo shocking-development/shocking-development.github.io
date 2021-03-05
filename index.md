@@ -74,12 +74,12 @@ A page that adds data to update the current user's data.
 ![](doc/addData.png)
 <br/>
 
-* GHG Calculator
+* GHG Calculator <br/>
 A page where users can calculate the amount of Greeh House Gases that they can either save or produce.
 ![](doc/calc.png)
 <br/>
 
-* Savings Page 
+* Savings Page <br/>
 A page where it displays how much GHG a user has saved on their transportations.
 ![](doc/savings.png)
 <br/>
