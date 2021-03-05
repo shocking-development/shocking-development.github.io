@@ -26,9 +26,9 @@ Here is a <a href="https://github.com/shocking-development/shockingdevelopment/p
 
 Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/2">link</a> to the page for Milestone 2 (M2). <br/>
 
- ### Milestone 3
+### Milestone 3
 
- Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/3">link</a> to the page for the issues covered in Milestone 3 (M3). <br/>
+Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/3">link</a> to the page for the issues covered in Milestone 3 (M3). <br/>
 
 Most of milestone 1 was centered around on developing the mockup pages and the basic data for the applications.
 
@@ -94,23 +94,30 @@ Admins of the application can organize the user data by deleting users who have 
 * Caliana Fortin
   * contact: fortinc@hawaii.edu
   * portfolio: https://calianafortin.github.io/
+
 *  James Galway-Severtson
    * contact: jtmoka@hawaii.edu
    * portfolio: https://jtmoka.github.io/
+
 * Jerome Gallego
   * contact: gallego6@hawaii.edu
   * portfolio: https://alohajerome.github.io/
+
 * Kyra Ikeda
   * contact: kyrai@hawaii.edu
   * portfolio: https://kyraikeda.github.io/
+
 * Matthew Kirts
   * contact: mkirts@hawaii.edu
   * portfolio: https://mkirts.github.io/
+
 * Shinya Saito
   * contact: saitoshi@hawaii.edu
   * portfolio: https://saitoshin.web.fc2.com/index.html
+
 * Trey Sumida
   * contact: tasumida@hawaii.edu
   * portfolio: https://treysumida.com/
+
 * Alex Wong
   * contact: awong20@hawaii.edu
