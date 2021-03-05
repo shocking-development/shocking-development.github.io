@@ -4,9 +4,7 @@
 ***
 * [OVERVIEW](#overview)
 * [MILESTONES](#milestones)
-* [PROGRESS + DEVELOPMENT](#progress--development)
-* [USER GUIDE](#user-guide)
-* [DEVELOPER GUIDE](#developer-guide)
+* [USER'S GUIDE](#user's-guide)
 * [TEAM MEMBERS](#team-members)
 
 
@@ -62,7 +60,7 @@ A page that displays the user's input profile such as their username, location o
 <br/>
 
 * Edit Profile Page <br/>
-![](doc/editProfile.png)
+![](doc/editprofile.png)
 A page that allows users to change any information that they would like to do. For instance, an user can change the area they live or their main mode of transportation.
 <br/>
 
