@@ -1,11 +1,18 @@
-# Shocking Development
+# TABLE OF CONTENTS
+***
+* [OVERVIEW](#overview)
+* [MILESTONES](#milestones)
+* [PROGRESS + DEVELOPMENT](#progress--development)
+* [USER GUIDE](#user-guide)
+* [DEVELOPER GUIDE](#developer-guide)
+* [TEAM MEMBERS](#team-members)
 
-## Goal of the Project
+
+# OVERVIEW
 The application provides Hawaiian electric customers ways to save their electric fees by cutting down their green house gas usages.
 
-## Overview
 
-## Milestones
+# MILESTONES
 
 ### Milestone 1
 
@@ -22,7 +29,9 @@ Here is a <a href="https://github.com/shocking-development/shockingdevelopment/p
  Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/3">link</a> to the page for the issues covered in Milestone 3 (M3). <br/>
 
 Most of milestone 1 was centered around on developing the mockup pages and the basic data for the applications.
-### User's Guide
+
+
+### USER'S GUIDE
 * Landing Page <br/>
 ![](doc/landing.png)
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page.
@@ -65,7 +74,7 @@ A page where it displays how much GHG a user has saved on their transportations.
 Admins of the application can organize the user data by deleting users who have been inactive for a long period of time.
 
 
-## Team Members
+## TEAM MEMBERS
 * Caliana Fortin
   * contact: fortinc@hawaii.edu
   * portfolio: https://calianafortin.github.io/
