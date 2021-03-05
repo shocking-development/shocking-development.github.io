@@ -4,7 +4,7 @@
 ***
 * [OVERVIEW](#overview)
 * [MILESTONES](#milestones)
-* [USER'S GUIDE](#user's-guide)
+* [USER GUIDE](#user-guide)
 * [TEAM MEMBERS](#team-members)
 
 
@@ -32,93 +32,86 @@ Here is a <a href="https://github.com/shocking-development/shockingdevelopment/p
 Most of milestone 1 was centered around on developing the mockup pages and the basic data for the applications.
 
 
-# USER'S GUIDE
+# USER GUIDE
 ***
 * Landing Page <br/>
-![](doc/landing.png)
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page.
+![](doc/landing.png)
 <br/>
 
 * Landing Page Alternate Version <br/>
-![](doc/landingLogged.png)
 Homepage for users who are already logged into their account. Will dispaly a brief preview on their progress on how much greenhouse gases they have saved.
+![](doc/landingLogged.png)
 <br/>
 
 * Log In Page <br/>
-![](doc/login.png)
 A page where returning users can log in to their registered account.
+![](doc/login.png)
 <br/>
 
 * Register Page <br/>
-![](doc/register.png)
 A page where users can register for an account for the application.
+![](doc/register.png)
 <br/>
 
 * Profile Page <br/>
-![](doc/profile.png)
 A page that displays the user's input profile such as their username, location of where they live, and their major mode of transportaiton.
+![](doc/profile.png)
 <br/>
 
 * Edit Profile Page <br/>
-![](doc/editprofile.png)
 A page that allows users to change any information that they would like to do. For instance, an user can change the area they live or their main mode of transportation.
+![](doc/editprofile.png)
 <br/>
 
 * Data Page <br/>
-![](doc/data.png) 
 A page that provides the user a deeper analysis on how much greenhouse gases they have saved and would provide how much more they could save if they used alternative transportation options.
+![](doc/data.png) 
 <br/>
 
 * Add Data Page <br/>
-![](doc/addData.png)
 A page that adds data to update the current user's data.
+![](doc/addData.png)
 <br/>
 
 * GHG Calculator
-![](doc/calc.png)
 A page where users can calculate the amount of Greeh House Gases that they can either save or produce.
+![](doc/calc.png)
 <br/>
 
 * Savings Page 
-![](doc/savings.png)
 A page where it displays how much GHG a user has saved on their transportations.
+![](doc/savings.png)
 <br/>
 
 * Admin Page <br/>
-![](doc/admin.png)
 Admins of the application can organize the user data by deleting users who have been inactive for a long period of time.
+![](doc/admin.png)
 <br/>
 
 
 ## TEAM MEMBERS
 ***
-* Caliana Fortin
-  * contact: fortinc@hawaii.edu
-  * portfolio: https://calianafortin.github.io/
+* [Caliana Fortin](https://calianafortin.github.io/)
+  * Contact: fortinc@hawaii.edu
 
-*  James Galway-Severtson
-   * contact: jtmoka@hawaii.edu
-   * portfolio: https://jtmoka.github.io/
+*  [James Galway-Severtson](https://jtmoka.github.io/)
+   * Contact: jtmoka@hawaii.edu
 
-* Jerome Gallego
-  * contact: gallego6@hawaii.edu
-  * portfolio: https://alohajerome.github.io/
+* [Jerome Gallego](https://alohajerome.github.io/)
+  * Contact: gallego6@hawaii.edu
 
-* Kyra Ikeda
-  * contact: kyrai@hawaii.edu
-  * portfolio: https://kyraikeda.github.io/
+* [Kyra Ikeda](https://kyraikeda.github.io/)
+  * Contact: kyrai@hawaii.edu
 
-* Matthew Kirts
-  * contact: mkirts@hawaii.edu
-  * portfolio: https://mkirts.github.io/
+* [Matthew Kirts](https://mkirts.github.io/)
+  * Contact: mkirts@hawaii.edu
 
-* Shinya Saito
-  * contact: saitoshi@hawaii.edu
-  * portfolio: https://saitoshin.web.fc2.com/index.html
+* [Shinya Saito](https://saitoshin.web.fc2.com/index.html)
+  * Contact: saitoshi@hawaii.edu
 
-* Trey Sumida
-  * contact: tasumida@hawaii.edu
-  * portfolio: https://treysumida.com/
+* [Trey Sumida](https://treysumida.com/)
+  * Contact: tasumida@hawaii.edu
 
 * Alex Wong
-  * contact: awong20@hawaii.edu
+  * Contact: awong20@hawaii.edu
