@@ -1,1 +1,12 @@
+  
+title: Shocking Developments
+description: A meteor based application to help users be green friendly.
+show_downloads: false
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/shocking-development/shockingdevelopment
+social:
+  type: Organization
+gems:
+  - jekyll-mentions
