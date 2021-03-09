@@ -112,6 +112,3 @@ Admins of the application can organize the user data by deleting users who have 
 
 * [Trey Sumida](https://treysumida.com/)
   * Contact: tasumida@hawaii.edu
-
-* Alex Wong
-  * Contact: awong20@hawaii.edu
