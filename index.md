@@ -46,7 +46,7 @@ Homepage for users who are already logged into their account. Will dispaly a bri
 
 * Log In Page <br/>
 A page where returning users can log in to their registered account.
-![](doc/login.png)
+![](doc/loginUpdate.png)
 <br/>
 
 * Register Page <br/>
@@ -71,22 +71,22 @@ A page that provides the user a deeper analysis on how much greenhouse gases the
 
 * Add Data Page <br/>
 A page that adds data to update the current user's data.
-![](doc/addData.png)
+![](doc/addEmissions.png)
 <br/>
 
 * GHG Calculator <br/>
 A page where users can calculate the amount of Greeh House Gases that they can either save or produce.
-![](doc/calc.png)
+![](doc/ghg-calc.png)
 <br/>
 
 * Savings Page <br/>
 A page where it displays how much GHG a user has saved on their transportations.
-![](doc/savings.png)
+![](doc/savingMoney.png)
 <br/>
 
 * Admin Page <br/>
 Admins of the application can organize the user data by deleting users who have been inactive for a long period of time.
-![](doc/admin.png)
+![](doc/adminUpdated.png)
 <br/>
 
 
