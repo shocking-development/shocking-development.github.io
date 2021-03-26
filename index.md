@@ -104,7 +104,7 @@ Admins of the application can organize the user data by deleting users who have 
 
 * [Kyra Ikeda](https://kyraikeda.github.io/)
   * Contact: kyrai@hawaii.edu
-* [Christian Jensen](#)
+* [Christian Jensen](https://christianjensenv.github.io/)
   * Contact: cjensen6@hawaii.edu
 
 * [Matthew Kirts](https://mkirts.github.io/)
