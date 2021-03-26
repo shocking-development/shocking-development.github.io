@@ -22,9 +22,11 @@ Here is a <a href="https://github.com/shocking-development/shockingdevelopment/p
 Most of milestone 1 was centered around on developing the mockup pages and the basic data for the applications.
 
 ### Milestone 2
+![](doc/milestone2.png)
 Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/2">link</a> to the page for Milestone 2 (M2). <br/>
 
 ### Milestone 3
+![](doc/milestone3.png)
 Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/3">link</a> to the page for the issues covered in Milestone 3 (M3). <br/>
 
 ### Milestone 4
@@ -65,7 +67,7 @@ A page that allows users to change any information that they would like to do. F
 
 * Data Page <br/>
 A page that provides the user a deeper analysis on how much greenhouse gases they have saved and would provide how much more they could save if they used alternative transportation options.
-![](doc/data.png) 
+![](doc/data.png)
 <br/>
 
 * Add Data Page <br/>
@@ -103,7 +105,7 @@ Admins of the application can organize the user data by deleting users who have 
 * [Kyra Ikeda](https://kyraikeda.github.io/)
   * Contact: kyrai@hawaii.edu
 * [Christian Jensen](#)
-  * Contact: cjensen6@hawaii.edu 
+  * Contact: cjensen6@hawaii.edu
 
 * [Matthew Kirts](https://mkirts.github.io/)
   * Contact: mkirts@hawaii.edu
