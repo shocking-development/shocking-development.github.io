@@ -110,7 +110,7 @@ Admins of the application can organize the user data by deleting users who have 
 * [Matthew Kirts](https://mkirts.github.io/)
   * Contact: mkirts@hawaii.edu
 
-* [Shinya Saito](https://saitoshin.web.fc2.com/index.html)
+* [Shinya Saito](https://saitoshi.github.io/)
   * Contact: saitoshi@hawaii.edu
 
 * [Trey Sumida](https://treysumida.com/)
