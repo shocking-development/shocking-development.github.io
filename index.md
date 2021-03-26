@@ -64,6 +64,9 @@ A page that displays the user's input profile such as their username, location o
 A page that allows users to change any information that they would like to do. For instance, an user can change the area they live or their main mode of transportation.
 ![](doc/editprofile.png)
 <br/>
+* Edit Password Page <br/>
+A page that allows users to change their password that is used for login purposes.
+![](doc/changePassword.png)
 
 * Data Page <br/>
 A page that provides the user a deeper analysis on how much greenhouse gases they have saved and would provide how much more they could save if they used alternative transportation options.
@@ -76,8 +79,11 @@ A page that adds data to update the current user's data.
 <br/>
 
 * GHG Calculator <br/>
-A page where users can calculate the amount of Greeh House Gases that they can either save or produce.
+A page where users can calculate the amount of Green House Gases that they can either save or produce. Based on the user's unit preference, the calculator can be done both metric and US units.
 ![](doc/ghg-calc.png)
+<br/>
+For metric units calculations.
+![](doc/calcMetric.png)
 <br/>
 
 * Savings Page <br/>
