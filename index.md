@@ -98,7 +98,7 @@ Admins of the application can organize the user data by deleting users who have 
 
 * ListCars Admin page <br/>
 Admins of the application can view the cars from the database.
-![](doc/lisCarsM4.png)
+![](doc/listCarsM4.png)
 
 ## TEAM MEMBERS
 ***
