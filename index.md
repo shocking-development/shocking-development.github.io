@@ -37,7 +37,7 @@ Here is a <a href="https://github.com/shocking-development/shockingdevelopment/p
 ***
 * Landing Page <br/>
 Homepage explaining what the site does and how to use it.  Users can navigate the site or get to the signup/signin page.
-![](doc/landinPageM4.png)
+![](doc/landingPageM4.png)
 <br/>
 
 * Landing Page Alternate Version <br/>
