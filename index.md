@@ -30,6 +30,7 @@ Here is a <a href="https://github.com/shocking-development/shockingdevelopment/p
 Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/3">link</a> to the page for the issues covered in Milestone 3 (M3). <br/>
 
 ### Milestone 4
+![](doc/milestone4.png)
 Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/4">link</a> to the page for the issues covered in Milestone 4 (M4). <br/>
 
 
