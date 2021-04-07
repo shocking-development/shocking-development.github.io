@@ -114,7 +114,6 @@ Then run meteor npm run start within the app folder head to http://localhost:300
 ![](doc/run.png)
 To modify the native source code, it is highly recommended that you use IntelliJ Idea to modify the source code to your liking. You can download it [here](https://www.jetbrains.com/idea/download/#section=mac).
 
-To run the native app, cd into the master branch directory of your computers native terminal and get to the app folder.
 ## TEAM MEMBERS
 ***
 * [Caliana Fortin](https://calianafortin.github.io/)
