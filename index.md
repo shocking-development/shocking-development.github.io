@@ -107,11 +107,11 @@ Admins of the application can view the cars from the database.
 To download the source code please head over to the repository [page](https://github.com/shocking-development/shockingdevelopment) and download the master branch. 
 <br/>
 To run the native app, cd into the master branch directory of your computers native terminal and get to the app folder.
-
+![](doc/open.png)
 Then, install meteor in the app folder using this command
-
+![](doc/install.png)
 Then run meteor npm run start within the app folder head to http://localhost:3000 to see the app running.
-
+![](doc/run.png)
 To modify the native source code, it is highly recommended that you use IntelliJ Idea to modify the source code to your liking. You can download it [here](https://www.jetbrains.com/idea/download/#section=mac).
 
 To run the native app, cd into the master branch directory of your computers native terminal and get to the app folder.
