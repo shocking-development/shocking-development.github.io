@@ -13,6 +13,7 @@
 ***
 The application provides Hawaiian electric customers ways to save their electric fees by cutting down their green house gas usages.
 
+Here is a [link to the application](https://shockingemissions.xyz/#/) which was deployed through [Digital Ocean](https://www.digitalocean.com/).
 
 # MILESTONES
 ***
@@ -100,11 +101,11 @@ Admins of the application can organize the user data by deleting users who have 
 
 * ListCars Admin page <br/>
 Admins of the application can view the cars from the database.
-![](doc/listCarsM4.png)
+![](doc/listCars.png)
 
-## DEVELOPER'S GUIDE 
+## DEVELOPER'S GUIDE
 ***
-To download the source code please head over to the repository [page](https://github.com/shocking-development/shockingdevelopment) and download the master branch. 
+To download the source code please head over to the repository [page](https://github.com/shocking-development/shockingdevelopment) and download the master branch.
 <br/>
 To run the native app, cd into the master branch directory of your computers native terminal and get to the app folder.
 ![](doc/open.png)
