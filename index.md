@@ -96,7 +96,7 @@ A page where it displays how much GHG a user has saved on their transportations.
 
 * Admin Page <br/>
 Admins of the application can organize the user data by deleting users who have been inactive for a long period of time.
-![](doc/adminUpdated.png)
+![](doc/listUsers.png)
 <br/>
 
 * ListCars Admin page <br/>
