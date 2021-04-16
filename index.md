@@ -98,6 +98,9 @@ A page where it displays how much GHG a user has saved on their transportations.
 Admins of the application can organize the user data by deleting users who have been inactive for a long period of time.
 ![](doc/listUsers.png)
 <br/>
+* Cumulative Data Page (Admin)
+If admin is logged into the application, they can see the most up to date cumulative data.
+![](doc/cumulative.png)
 
 * ListCars Admin page <br/>
 Admins of the application can view the cars from the database.
