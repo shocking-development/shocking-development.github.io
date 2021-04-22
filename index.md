@@ -5,6 +5,7 @@
 * [OVERVIEW](#overview)
 * [MILESTONES](#milestones)
 * [USER GUIDE](#user-guide)
+* [PEER REVIEW](#review)
 * [DEVELOPER'S GUIDE](#develop)
 * [TEAM MEMBERS](#team-members)
 
@@ -106,6 +107,10 @@ If admin is logged into the application, they can see the most up to date cumula
 Admins of the application can view the cars from the database.
 ![](doc/listCars.png)
 
+# USER REVIEW 
+Here are some community feedback Shocking Emissions has received.
+* PERSON A 
+  "The site is aesthetically pleasing and well organized. Using the functions was intuitive as well. The graphs were also easy to interpret."
 ## DEVELOPER'S GUIDE
 ***
 To download the source code please head over to the repository [page](https://github.com/shocking-development/shockingdevelopment) and download the master branch.
