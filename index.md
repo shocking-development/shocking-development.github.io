@@ -5,8 +5,8 @@
 * [OVERVIEW](#overview)
 * [MILESTONES](#milestones)
 * [USER GUIDE](#user-guide)
-* [PEER REVIEW](#review)
-* [DEVELOPER'S GUIDE](#develop)
+* [PEER REVIEW](#user-review)
+* [DEVELOPER'S GUIDE](#develop's-guide)
 * [TEAM MEMBERS](#team-members)
 
 
