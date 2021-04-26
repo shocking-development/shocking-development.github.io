@@ -94,7 +94,10 @@ For metric units calculations.
 A page where it displays how much GHG a user has saved on their transportations.
 ![](doc/savingMoney.png)
 <br/>
-
+* Contact Page <br/>
+A page where users can contact Admin such as if they want to add a car in the list or would like to get technical support with the application.
+![](doc/contact.png)
+<br/>
 * Admin Page <br/>
 Admins of the application can organize the user data by deleting users who have been inactive for a long period of time.
 ![](doc/listUsers.png)
@@ -107,9 +110,9 @@ If admin is logged into the application, they can see the most up to date cumula
 Admins of the application can view the cars from the database.
 ![](doc/listCars.png)
 
-# USER REVIEW 
+# USER REVIEW
 Here are some community feedback Shocking Emissions has received.
-* PERSON A 
+* PERSON A
   "The site is aesthetically pleasing and well organized. Using the functions was intuitive as well. The graphs were also easy to interpret."
 ## DEVELOPER'S GUIDE
 ***
