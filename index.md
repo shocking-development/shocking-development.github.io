@@ -87,7 +87,7 @@ A page that adds data to update the current user's data.
 
 * GHG Calculator <br/>
 A page where users can calculate the amount of Green House Gases that they can either save or produce. Based on the user's unit preference, the calculator can be done both metric and US units.
-![](doc/ghg-calc.png)
+![](doc/ghgcalc-US.png)
 <br/>
 For metric units calculations.
 ![](doc/calcMetric.png)
