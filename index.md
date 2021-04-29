@@ -107,7 +107,7 @@ Admins of the application can organize the user data by deleting users who have 
 <br/>
 * Cumulative Data Page (Admin) <br/>
 If admin is logged into the application, they can see the most up to date cumulative data.
-![](doc/cumulative.png)
+![](doc/cumulativedata.png)
 <br/>
 * ListCars Admin page <br/>
 Admins of the application can view the cars from the database.
