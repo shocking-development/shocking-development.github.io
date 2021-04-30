@@ -17,6 +17,7 @@ The application provides Hawaiian electric customers ways to save their electric
 Here is a [link to the application](https://shockingemissions.xyz/#/) which was deployed through [Digital Ocean](https://www.digitalocean.com/).
 
 ![](doc/shockingemissions.gif)
+<br/>
 Additionally, here is a sample gif of the running application.
 
 # MILESTONES
