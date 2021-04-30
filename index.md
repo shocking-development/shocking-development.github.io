@@ -40,6 +40,10 @@ Here is a <a href="https://github.com/shocking-development/shockingdevelopment/p
 ![](doc/milestone5.png)
 Here is a <a href="https://github.com/shocking-development/shockingdevelopment/projects/5">link</a> to the page for issues covered in Milestone 5 (M5).
 <br/>
+### Milestone 6
+![](doc/M6.png)
+Here is a <a hef="https://github.com/shocking-development/shockingdevelopment/projects/6">link</a> to the list of issues covered in Milestone 6 (M6).
+<br/>
 # USER GUIDE
 ***
 * Landing Page <br/>
@@ -117,7 +121,7 @@ Admins of the application can view the cars from the database.
 Here are some community feedback Shocking Emissions has received.
 * PERSON A
   "The site is aesthetically pleasing and well organized. Using the functions was intuitive as well. The graphs were also easy to interpret."
-  
+
 ## DEVELOPER'S GUIDE
 ***
 To download the source code please head over to the repository [page](https://github.com/shocking-development/shockingdevelopment) and download the master branch.
