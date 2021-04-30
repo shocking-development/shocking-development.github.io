@@ -14,11 +14,11 @@
 ***
 The application provides Hawaiian electric customers ways to save their electric fees by cutting down their green house gas usages.
 
-Here is a [link to the application](https://shockingemissions.xyz/#/) which was deployed through [Digital Ocean](https://www.digitalocean.com/).
-
+Here is a [link to the application](https://shockingemissions.xyz/#/) which was deployed through [Digital Ocean](https://www.digitalocean.com/). <br/>
+Additionally, here is a sample gif of the running application.
 ![](doc/shockingemissions.gif)
 <br/>
-Additionally, here is a sample gif of the running application.
+
 
 # MILESTONES
 ***
