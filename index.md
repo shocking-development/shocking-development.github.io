@@ -87,7 +87,7 @@ A page that adds data to update the current user's data.
 
 * GHG Calculator <br/>
 A page where users can calculate the amount of Green House Gases that they can either save or produce. Based on the user's unit preference, the calculator can be done both metric and US units.
-![](doc/ghg-calc.png)
+![](doc/ghgcalc-US.png)
 <br/>
 For metric units calculations.
 ![](doc/calcMetric.png)
@@ -105,9 +105,9 @@ A page where users can contact Admin such as if they want to add a car in the li
 Admins of the application can organize the user data by deleting users who have been inactive for a long period of time.
 ![](doc/listUsers.png)
 <br/>
-* Cumulative Data Page (Admin) <br/>
-If admin is logged into the application, they can see the most up to date cumulative data.
-![](doc/cumulative.png)
+* Cumulative Data Page <br/>
+Any user is able to see this cumulative data page that displays the total amount of users, money saved, and gallons of gas saved.
+![](doc/cumulativedata.png)
 <br/>
 * ListCars Admin page <br/>
 Admins of the application can view the cars from the database.
@@ -117,6 +117,7 @@ Admins of the application can view the cars from the database.
 Here are some community feedback Shocking Emissions has received.
 * PERSON A
   "The site is aesthetically pleasing and well organized. Using the functions was intuitive as well. The graphs were also easy to interpret."
+  
 ## DEVELOPER'S GUIDE
 ***
 To download the source code please head over to the repository [page](https://github.com/shocking-development/shockingdevelopment) and download the master branch.
